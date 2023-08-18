@@ -1,6 +1,6 @@
 # Storytelling Data Visualization on Exchange Rates
 
-![Project Banner](![download](https://github.com/vajrastra/Storytelling-Data-Visualization-on-Exchange-Rates/assets/138153483/3522e23c-bb0a-41ef-aef0-880ac363cd1f))
+![Project Banner](![download](https://github.com/vajrastra/Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/final_visualization.png?raw=true))
 
 This project showcases storytelling data visualizations using Python's matplotlib library to analyze and visualize historical euro-dollar exchange rates. The visualizations provide insights into the exchange rate trends during specific periods and events.
 
